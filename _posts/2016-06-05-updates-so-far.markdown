@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Updates Till Now"
+title:  "Updates So Far"
 date:   2016-06-05
 categories: updates old code android
 ---
